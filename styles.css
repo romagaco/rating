@@ -1,0 +1,22 @@
+body {
+    background-color: darkgreen;
+}
+
+.rating {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.item {
+    background-color: azure;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.item-full {
+    background-color: wheat;
+}

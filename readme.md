@@ -6,7 +6,7 @@ Este es un proyecto minimalista que implementa un componente de **calificación 
 
 ## ✨ Características
 
-* **Interactividad con el Mouse:** Las estrellas cambian de color (`:hover`) al pasar el cursor sobre ellas.
+* **Interactividad con el Mouse:** Las estrellas cambian de color (`:hover`) al pasar el cursor sobre ellas. Gracias a darle una nueva clase y remover la existente de manera reactiva.
 * **Selección Persistente:** Al hacer clic en una estrella, la calificación se fija y persiste en la interfaz.
 * **Feedback Visual:** La calificación seleccionada se mantiene coloreada, proporcionando una retroalimentación clara al usuario.
 * **Código Limpio:** Implementación directa y concisa en `main.js`.
@@ -23,7 +23,7 @@ Para usar este widget en cualquier proyecto o para verlo en funcionamiento:
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/romagaco/rating](https://github.com/romagaco/rating)
+    git clone https://github.com/romagaco/rating
     cd rating
     ```
 2.  **Abrir el Archivo:** Simplemente abre el archivo `index.html` en tu navegador web.
